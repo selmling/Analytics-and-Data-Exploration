@@ -1,4 +1,4 @@
-# `create_eaf.py` will create a new eaf file from a template eaf file
+#### `create_eaf.py` will create a new eaf file from a template eaf file
 
 To use:
 
@@ -16,4 +16,4 @@ To use:
 
 5. Run the script (see [this video](https://drive.google.com/file/d/1kTSkCxr2I8l1b1GuFXpeoelC1sRTaS4M/preview) to learn how to run a python script)
 
-Note: if you want to run this on multiple subjects in the same directory, you'll just complete step 3 and step 5 again for the new subjects.
+##### Note: if you want to run this on multiple subjects in the same directory, you'll just complete step 3 and step 5 again for the new subjects.
