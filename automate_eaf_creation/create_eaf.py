@@ -12,4 +12,4 @@ elan_file.remove_linked_files()
 elan_file.add_linked_file('%s%snormalized.wav' % (corpus_root,media_name))
 elan_file.add_linked_file('%s%s.mov' % (corpus_root,media_name), mimetype='mov')
 # save new file
-elan_file.to_file(file_path="%s%s.eaf" % (corpus_root,media_name))
+elan_file.to_file(file_path="%s.eaf" % media_name)
